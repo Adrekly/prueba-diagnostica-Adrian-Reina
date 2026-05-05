@@ -33,8 +33,6 @@ def demostracion_collatz(p, q):
 # ==========================================
 # Zona de Pruebas y Demostracion (Ejecucion directa)
 # ==========================================
-print("--- PRUEBA 1: Evaluacion del ejemplo del enunciado (p=6, q=8) ---")
-demostracion_collatz(6, 8)
 
-print("--- PRUEBA 2: Demostracion aplicando la regla (p=1, q=100) ---")
+print("--- PRUEBA: Demostracion aplicando la regla (p=1, q=100) ---")
 demostracion_collatz(1, 100)

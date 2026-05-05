@@ -1,6 +1,7 @@
 # Evaluación: Lenguajes y Compiladores 
 
 **Autor:** Adrian Reina 
+
 **Ponderación Total:** 10% (5% Código y estructura + 5% Defensa Audiovisual)  
 **Lenguaje de Desarrollo:** Python 2.7  
 

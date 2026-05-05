@@ -11,7 +11,7 @@
 
 Puedes ver la explicación detallada de la solución y la ejecución de los códigos en el siguiente enlace:
 
-👉 **[Ver Defensa en YouTube](https://youtu.be/G8Ac6CJkXh0)**
+👉 **[Ver Defensa en YouTube](https://youtu.be/7361UFcwHD4)**
 
 *Nota para la evaluación: El video cumple con el formato horizontal (16:9), audio inteligible y la demostración práctica de los tres problemas según lo solicitado en la rúbrica.*
 
